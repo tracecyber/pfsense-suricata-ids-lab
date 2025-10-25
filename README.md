@@ -1,4 +1,3 @@
-<!-- Bạn có thể tạo các huy hiệu đẹp mắt này tại: https://shields.io/ -->
 <p align="center">
   <img src="https://img.shields.io/badge/pfSense-CE-blue?style=for-the-badge&logo=pfsense" alt="pfSense Badge"/>
   <img src="https://img.shields.io/badge/Suricata-IDS/IPS-red?style=for-the-badge" alt="Suricata Badge"/>
